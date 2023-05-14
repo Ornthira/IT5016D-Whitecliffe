@@ -1,3 +1,5 @@
+#one of my first practice codes playing around with assigning variables and understanding while true loops - if, elif and else.
+#inspiration taken from reading online materials on "Geeksforgeeks" website https://www.geeksforgeeks.org/python-programming-language/
 print("Hello world\n")
 yes = ("yes" , "Yes")
 no =("no", "No")
