@@ -1,0 +1,40 @@
+#exaple code halfway down taken for inspiration from a stack overflow discussion about why someone's code wasn't working.
+#the original code was: 
+
+# def mainmenu():
+#    print ('1. Scan')
+#    print ('2. Ping')
+#    print ('3. Exit')
+#    print
+
+#    choice = int(raw_input('> Enter your choice: '))
+
+#   if choice == 1:
+#      print ('Starting Scan\n')
+#      mainmenu()
+#   elif choice == 2:
+#      print ('Starting Ping\n')
+#      mainmenu()
+#   elif choice == 3:
+#       print ('Exiting\n')
+#       exit(0)
+#mainmenu()
+#some kind soul suggested the following:
+def mainmenu():
+    while(True):
+        print ('1. Scan')
+        print ('2. Ping')
+        print ('3. Exit')
+        print
+
+        choice = int(input('> Enter your choice: '))
+
+    
+        if choice == 1:
+            print ('Starting Scan\n')
+        elif choice == 2:
+            print ('Starting Ping\n')
+        elif choice == 3:
+            print ('Exiting\n')
+            exit(0)
+mainmenu()
