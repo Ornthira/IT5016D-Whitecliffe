@@ -1,4 +1,5 @@
 #exaple code halfway down taken for inspiration from a stack overflow discussion about why someone's code wasn't working.
+#I found this quite insightful really early on as I made think learn about identifying issues within my own codes.
 #the original code was: 
 
 # def mainmenu():
