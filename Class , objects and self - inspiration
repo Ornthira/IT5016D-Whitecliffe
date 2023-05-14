@@ -1,4 +1,4 @@
-#example code taken for inspiration from https://www.knowledgehut.com/blog/programming/self-variabe-python-examples
+#example code taken for inspiration from https://pynative.com/python-classes-and-objects/
 class Fruit:
     def __init__(self, name, color):
         self.name = name
