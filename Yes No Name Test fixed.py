@@ -1,3 +1,7 @@
+#I had tested the fist "Yes No Name Test" with my partner and found that I was accounting for other potential inputs, so
+#amended the code to this.
+#although all uppercase yes/no did not need to be included in the variables (and I know it's bad practice) because of the .lower method, 
+#I wanted to include it anyway as I was still practicing assigning variables and building my own code. Also practicing "break" function.
 print("Hello! Welcome to Surfers Paradise!\n")
 yes = ("yes", "Yes", "y", "Y")
 no = ("no", "No", "n", "N")
