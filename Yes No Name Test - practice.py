@@ -2,11 +2,12 @@
 #inspiration taken from reading online materials on "Geeksforgeeks" website https://www.geeksforgeeks.org/python-programming-language/
 print("Hello world\n")
 yes = ("yes" , "Yes")
-no =("no", "No")
+no = ("no", "No")
 while True:
     name = input("What is your name?")
     print("Thank you,you have input your name as", (name))
     user_answer = input("Is this correct? Please answer Yes or No: ")
+#.lower converts the users input to lowercase.
     if user_answer.lower() in yes :
         print("Great, let's continue!")
         break
