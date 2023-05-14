@@ -1,4 +1,4 @@
-#example illustrating functions
+#my own code practicing functions and calling them.
 def SmallTalk():
     print("How you doin?")
     print("You good?")
