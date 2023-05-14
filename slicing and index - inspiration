@@ -1,0 +1,8 @@
+# example code taken for inspiration from https://www.digitalocean.com/community/tutorials/how-to-index-and-slice-strings-in-python-3
+# demonstrating string slicing
+
+# String slicing
+String = 'GEEKSFORGEEKS'
+
+# Using indexing sequence
+print(String[:3])
