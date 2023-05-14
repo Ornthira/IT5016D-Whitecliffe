@@ -1,3 +1,4 @@
+#pracitce code for a main menu, as recommneded by tutor.
 print("Select from the following choices:\n")
 print("0: Exit\n")
 print("1: Submit helpdesk ticket\n")
