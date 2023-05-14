@@ -1,4 +1,4 @@
-#my own code practicing functions and calling them.
+#my own code practicing methond and functions and calling them.
 def SmallTalk():
     print("How you doin?")
     print("You good?")
