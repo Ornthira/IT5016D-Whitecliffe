@@ -1,4 +1,6 @@
-#example taken from https://www.mygreatlearning.com/blog/python-init/#:~:text=The%20python%20__init__%20method%20is%20declared%20within%20a,object%20of%20the%20class%20itself.
+#example taken from 
+#https://www.mygreatlearning.com/blog/python-init/#:~:text=The%20python%20__init__%20method%20is%20declared%20within%20a,object%20of%20the%20class%20itself.
+#for inspiration to help me understand parameterised __init__ contructor and self.
 class Default():
     
     #defining parameterised constructor
