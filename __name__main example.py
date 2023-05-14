@@ -1,4 +1,4 @@
-#example of __name__main idiom taken from https://realpython.com/if-name-main-python/
+#example of __name__main idiom taken from https://realpython.com/if-name-main-python/ for inspiration.
 def echo(text: str, repetitions: int = 3) -> str:
     """Imitate a real-world echo."""
     echoed_text = ""
