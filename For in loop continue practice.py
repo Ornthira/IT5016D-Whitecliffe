@@ -1,3 +1,5 @@
+#practice code for understanding list, for loop and == 
+#own code
 colors = ["Orange", "Yellow", "Green", "Pink", "Blue"]
 for x in colors:
     print(x)
